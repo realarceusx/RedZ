@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realarceusx/Tradefreeze/refs/heads/main/FreezeTrade"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realarceusx/RedZ/refs/heads/main/RedzHub"))()
