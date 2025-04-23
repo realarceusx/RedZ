@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/EuvTXXWR/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realarceusx/Lua/refs/heads/main/Scriptblox"))()
